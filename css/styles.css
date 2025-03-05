@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*NAV*/
+#icono-dark-mode {
+    width: 40px;
+    height: 40px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+    transition: all 0.2s ease-in-out;
+}
